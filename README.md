@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DemonS2803 (ru)
 - 👀 I’m interested in backend delopment
-- 🌱 I’m currently learning Java (Spring)
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate mostly on creating web-sites and web applications. Or another project
 - 📫 How to reach me -> https://tglink.ru/DemonS2803
 
